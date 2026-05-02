@@ -4,7 +4,9 @@
 
 DebtFlow is a native iOS application and high-performance financial awareness engine. Far beyond a traditional calculator, it analyzes your financial landscape, minimizes manual input using smart defaults, and translates raw debt data into real-life impact—showing you not just how much you owe, but how your financial choices affect your time, freedom, and emotional well-being.
 
-<!-- Insert Product Screenshots Here -->
+<img width="256" height="500" alt="image" src="https://github.com/user-attachments/assets/18a21b00-b98a-4d72-919a-6a9bc544d941" /> <img width="256" height="500" alt="image" src="https://github.com/user-attachments/assets/eddc6687-7e38-423a-802b-856dd8491f35" />
+
+
 
 ---
 
