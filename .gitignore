@@ -1,0 +1,76 @@
+# --- Swift & Xcode ---
+.build/
+DerivedData/
+*.xcodeproj/
+*.xcworkspace/
+.swiftpm/
+xcuserdata/
+/Packages
+/Package.resolved
+*.swp
+*.swo
+
+# --- macOS ---
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# --- Python & AI ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.venv/
+venv/
+ENV/
+env/
+
+# --- Logs & Temp ---
+*.log
+logs/
+*.bak
+*.tmp
+*.sql
+*.sqlite
+
+# --- Security & Environment ---
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+key.pem
+cert.pem
+
+# --- Windows ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk

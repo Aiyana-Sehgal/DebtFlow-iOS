@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+easyocr
+langchain
+langchain-community
+langchain-core
+python-multipart
